@@ -1,0 +1,1 @@
+function toilagi(){alert('vietnamcolen');}
